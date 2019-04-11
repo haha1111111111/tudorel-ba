@@ -246,4 +246,4 @@ if (command == "unmute") { // creates the command unmute
 });
 
 
-bot.login('NTQ3ODE1NzYwNjYwMDA0ODcw.D1b0mA.LPIN7lqlGi3oW2r84AXHacSjCfA'); // connects to the bot
+bot.login('process.env.token'); // connects to the bot
